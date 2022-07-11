@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://giphy.com/gifs/tech-software-macaotech-PoHs1Ne8rcMuZRJted
+
 
 <!--
 **yasirKhaan/yasirKhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

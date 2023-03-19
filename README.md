@@ -48,3 +48,4 @@ You can reach out to me on LinkedIn to connect or discuss any projects you have 
 
 Let's Connect!
 I'm always looking to connect with other professionals in my field. If you'd like to connect, please don't hesitate to send me a message or connect with me on LinkedIn.
+https://www.linkedin.com/in/yasir-khan-66b735178/

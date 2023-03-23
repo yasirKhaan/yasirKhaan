@@ -121,6 +121,7 @@ I'm always looking to connect with other professionals in my field. If you'd lik
     </p>
 </td>
 </tr>
+    <!--
 <tr>
     <td>
         <p align="center">
@@ -173,6 +174,7 @@ I'm always looking to connect with other professionals in my field. If you'd lik
         </p>
     </td>
 </tr>
+-->
 </table>
 
 

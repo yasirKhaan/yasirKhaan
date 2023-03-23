@@ -72,7 +72,7 @@ I'm always looking to connect with other professionals in my field. If you'd lik
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table border="0px">
   <tr>
     <td>
       <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>

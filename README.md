@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Yasir Khan</h1>
-<h3 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence..!!</h3>
+<h2 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence..!!</h3>
 
 ## About Me
 I am a Python Developer with over 2.5 of experience in web and backend development, as well as digital image processing and computer vision. My expertise lies in using Python frameworks such as Django, Flask, Django Rest Framework, FastAPI, and Pyramid, as well as technologies such as MSSQL, NoSQL, and Git.
@@ -13,7 +13,6 @@ In addition, I have a strong background in Artificial Intelligence and Machine L
 I have extensive experience working with Microsoft Azure, including Azure Function Apps, Azure App Services, Azure Event Hub, Azure Active Directory, Azure Logic Apps, Azure Virtual Machines, and Azure Computer Vision. I am also proficient in microservices and serverless scripting.
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 ## My Skills
 Python ||

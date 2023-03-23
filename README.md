@@ -84,6 +84,8 @@ I'm always looking to connect with other professionals in my field. If you'd lik
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
                         alt="19601820/yasir-khan" height="30" width="40" /></a></p>
         </td>
+    </tr>
+        <tr>
         <td>
             <p align="center"><a href="https://kaggle.com/yserkhan" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
@@ -97,6 +99,8 @@ I'm always looking to connect with other professionals in my field. If you'd lik
     </tr>
 </table>
 
+<br>
+<br>
 <br>
 <br>
 <br>

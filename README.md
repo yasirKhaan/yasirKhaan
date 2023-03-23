@@ -14,51 +14,48 @@ I have extensive experience working with Microsoft Azure, including Azure Functi
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 ## My Skills
-Python ||
-Django ||
-Flask ||
-Django Rest Framework ||
-FastAPI ||
-Pyramid ||
-MSSQL ||
-NoSQL ||
-Git ||
-TensorFlow ||
-OpenCV ||
-Sklearn ||
-Pandas ||
-Numpy ||
-Seaborn ||
-Selenium ||
-Unit Testing ||
-Microsoft Azure ||
-Cloud Computing ||
-Azure Function Apps ||
-Azure App Services ||
-Azure Event Hub ||
-Azure Active Directory ||
-Azure Logic Apps ||
-Azure Virtual Machines ||
-Azure Computer Vision ||
-Microservices ||
-Backend ||
-Web Development ||
-Restful API Development ||
-Serverless Scripting ||
-Artificial Intelligence ||
-Machine Learning ||
-Digital Image Processing ||
-Computer Vision ||
+Python **||**
+Django **||**
+Flask **||**
+Django Rest Framework **||**
+FastAPI **||**
+Pyramid **||**
+MSSQL **||**
+NoSQL **||**
+Git **||**
+TensorFlow **||**
+OpenCV **||**
+Sklearn **||**
+Pandas **||**
+Numpy **||**
+Seaborn **||**
+Selenium **||**
+Unit Testing **||**
+Microsoft Azure **||**
+Cloud Computing **||**
+Azure Function Apps **||**
+Azure App Services **||**
+Azure Event Hub **||**
+Azure Active Directory **||**
+Azure Logic Apps **||**
+Azure Virtual Machines **||**
+Azure Computer Vision **||**
+Microservices **||**
+Backend **||**
+Web Development **||**
+Restful API Development **||**
+Serverless Scripting **||**
+Artificial Intelligence **||**
+Machine Learning **||**
+Digital Image Processing **||**
+Computer Vision **||**
 Neural Networks
+
 Contact Me
 You can reach out to me on LinkedIn to connect or discuss any projects you have in mind.
 
 Let's Connect!
-I'm always looking to connect with other professionals in my field. If you'd like to connect, please don't hesitate to send me a message or connect with me on LinkedIn.
-https://www.linkedin.com/in/yasir-khan-66b735178/
-
-
-
+I'm always looking to connect with other professionals in my field. If you'd like to connect, please don't hesitate to send me a message or connect with me on the email address and accounts I provided below.
 
 
 - 🔭 I’m currently working on **ArcGIS, Automation, ETL, Django, FastAPI, Data Science & Machine Learning**

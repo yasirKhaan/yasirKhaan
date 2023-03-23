@@ -65,7 +65,7 @@ I'm always looking to connect with other professionals in my field. If you'd lik
 - 📫 How to reach me **yasirkhan.pydev@gmail.com**
 
 - ⚡ Fun fact **In my mind, I observe every normal thing and create logic behind it with pseudo code of it. (I know it sounds Strange 😃)**
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="center" alt="coding" width="100%" height="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <h3 align="left">Connect with me:</h3>
 
@@ -84,8 +84,6 @@ I'm always looking to connect with other professionals in my field. If you'd lik
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
                         alt="19601820/yasir-khan" height="30" width="40" /></a></p>
         </td>
-    </tr>
-        <tr>
         <td>
             <p align="center"><a href="https://kaggle.com/yserkhan" target="blank"><img align="center"
                         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
@@ -99,11 +97,6 @@ I'm always looking to connect with other professionals in my field. If you'd lik
     </tr>
 </table>
 
-<br>
-<br>
-<br>
-<br>
-<br>
 <h3 align="left">Languages and Tools:</h3>
 
 <table>

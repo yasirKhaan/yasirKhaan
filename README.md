@@ -7,9 +7,12 @@ In addition, I have a strong background in Artificial Intelligence and Machine L
 I have extensive experience working with Microsoft Azure, including Azure Function Apps, Azure App Services, Azure Event Hub, Azure Active Directory, Azure Logic Apps, Azure Virtual Machines, and Azure Computer Vision. I am also proficient in microservices and serverless scripting.
 
 ## My Skills
-Python ||
-Django ||
-Flask ||
+Python 
+#### ||
+Django 
+#### ||
+Flask 
+#### ||
 Django Rest Framework ||
 FastAPI ||
 Pyramid ||

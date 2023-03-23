@@ -2,7 +2,9 @@
 
 
 
-# Hi there, I'm a Python Developer with expertise in Artificial Intelligence and Cloud Computing!
+<h1 align="center">Hi there 👋, I'm Yasir Khan</h1>
+<h3 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence..!!</h3>
+
 ## About Me
 I am a Python Developer with over 2.5 of experience in web and backend development, as well as digital image processing and computer vision. My expertise lies in using Python frameworks such as Django, Flask, Django Rest Framework, FastAPI, and Pyramid, as well as technologies such as MSSQL, NoSQL, and Git.
 
@@ -59,8 +61,7 @@ https://www.linkedin.com/in/yasir-khan-66b735178/
 
 
 
-<h1 align="center">Hi there 👋, I'm I am Yasir Khan</h1>
-<h3 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence..!!</h3>
+
 
 - 🔭 I’m currently working on **ArcGIS, Automation, ETL, Django, FastAPI, Data Science & Machine Learning**
 

@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="100%" src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+<img align="center" alt="coding" width="100%" height="10" src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
 
 

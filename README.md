@@ -11,8 +11,7 @@ I am a Python Developer with over 2.5 of experience in web and backend developme
 In addition, I have a strong background in Artificial Intelligence and Machine Learning, with experience using TensorFlow, Sklearn, Pandas, and Numpy for building and optimizing ML models. I am also well-versed in digital image processing and computer vision, with expertise in OpenCV and Seaborn.
 
 I have extensive experience working with Microsoft Azure, including Azure Function Apps, Azure App Services, Azure Event Hub, Azure Active Directory, Azure Logic Apps, Azure Virtual Machines, and Azure Computer Vision. I am also proficient in microservices and serverless scripting.
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 ## My Skills
 Python ||

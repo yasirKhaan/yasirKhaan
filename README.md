@@ -1,3 +1,7 @@
+<img align="center" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FcoxQHKASG60HrHtvkt%2Fgiphy.gif&tbnid=KZuL_FkVsHNKAM&vet=12ahUKEwis2Kif-fL9AhUCpycCHdL8CrkQMygAegUIARD2AQ..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython-coding&docid=ty4RnV_KyV0xJM&w=1200&h=628&q=python%20gif%20coding&ved=2ahUKEwis2Kif-fL9AhUCpycCHdL8CrkQMygAegUIARD2AQ)">
+
+
+
 # Hi there, I'm a Python Developer with expertise in Artificial Intelligence and Cloud Computing!
 ## About Me
 I am a Python Developer with over 2.5 of experience in web and backend development, as well as digital image processing and computer vision. My expertise lies in using Python frameworks such as Django, Flask, Django Rest Framework, FastAPI, and Pyramid, as well as technologies such as MSSQL, NoSQL, and Git.

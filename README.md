@@ -62,8 +62,6 @@ https://www.linkedin.com/in/yasir-khan-66b735178/
 <h1 align="center">Hi there 👋, I'm I am Yasir Khan</h1>
 <h3 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence..!!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirkhaan" alt="yasirkhaan" /></a> </p>
-
 - 🔭 I’m currently working on **ArcGIS, Automation, ETL, Django, FastAPI, Data Science & Machine Learning**
 
 - 🌱 I’m currently learning **Natural Language Processing**

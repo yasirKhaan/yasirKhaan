@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Yasir Khan</h1>
-<h2 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence..!!</h3>
+<h2 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence.</h3>
 
 ## About Me
 I am a Python Developer with over 2.5 of experience in web and backend development, as well as digital image processing and computer vision. My expertise lies in using Python frameworks such as Django, Flask, Django Rest Framework, FastAPI, and Pyramid, as well as technologies such as MSSQL, NoSQL, and Git.
@@ -51,8 +51,6 @@ Digital Image Processing **||**
 Computer Vision **||**
 Neural Networks
 
-Contact Me
-You can reach out to me on LinkedIn to connect or discuss any projects you have in mind.
 
 Let's Connect!
 I'm always looking to connect with other professionals in my field. If you'd like to connect, please don't hesitate to send me a message or connect with me on the email address and accounts I provided below.

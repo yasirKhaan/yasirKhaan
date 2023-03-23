@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FcoxQHKASG60HrHtvkt%2Fgiphy.gif&tbnid=KZuL_FkVsHNKAM&vet=12ahUKEwis2Kif-fL9AhUCpycCHdL8CrkQMygAegUIARD2AQ..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython-coding&docid=ty4RnV_KyV0xJM&w=1200&h=628&q=python%20gif%20coding&ved=2ahUKEwis2Kif-fL9AhUCpycCHdL8CrkQMygAegUIARD2AQ)">
+<img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
 
 

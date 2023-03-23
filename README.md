@@ -65,7 +65,7 @@ I'm always looking to connect with other professionals in my field. If you'd lik
 - 📫 How to reach me **yasirkhan.pydev@gmail.com**
 
 - ⚡ Fun fact **In my mind, I observe every normal thing and create logic behind it with pseudo code of it. (I know it sounds Strange 😃)**
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <h3 align="left">Connect with me:</h3>
 

@@ -1,3 +1,6 @@
+<style>
+  table {border: none;}
+  </style>
 <img align="center" alt="coding" width="100%" height="250" src="https://media2.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
 

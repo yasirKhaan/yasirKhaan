@@ -97,7 +97,9 @@ I'm always looking to connect with other professionals in my field. If you'd lik
     </tr>
 </table>
 
-
+<br>
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 <table>

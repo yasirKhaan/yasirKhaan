@@ -7,41 +7,41 @@ In addition, I have a strong background in Artificial Intelligence and Machine L
 I have extensive experience working with Microsoft Azure, including Azure Function Apps, Azure App Services, Azure Event Hub, Azure Active Directory, Azure Logic Apps, Azure Virtual Machines, and Azure Computer Vision. I am also proficient in microservices and serverless scripting.
 
 ## My Skills
-Python
-Django
-Flask
-Django Rest Framework
-FastAPI
-Pyramid
-MSSQL
-NoSQL
-Git
-TensorFlow
-OpenCV
-Sklearn
-Pandas
-Numpy
-Seaborn
-Selenium
-Unit Testing
-Microsoft Azure
-Cloud Computing
-Azure Function Apps
-Azure App Services
-Azure Event Hub
-Azure Active Directory
-Azure Logic Apps
-Azure Virtual Machines
-Azure Computer Vision
-Microservices
-Backend
-Web Development
-Restful API Development
-Serverless Scripting
-Artificial Intelligence
-Machine Learning
-Digital Image Processing
-Computer Vision
+Python ||
+Django ||
+Flask ||
+Django Rest Framework ||
+FastAPI ||
+Pyramid ||
+MSSQL ||
+NoSQL ||
+Git ||
+TensorFlow ||
+OpenCV ||
+Sklearn ||
+Pandas ||
+Numpy ||
+Seaborn ||
+Selenium ||
+Unit Testing ||
+Microsoft Azure ||
+Cloud Computing ||
+Azure Function Apps ||
+Azure App Services ||
+Azure Event Hub ||
+Azure Active Directory ||
+Azure Logic Apps ||
+Azure Virtual Machines ||
+Azure Computer Vision ||
+Microservices ||
+Backend ||
+Web Development ||
+Restful API Development ||
+Serverless Scripting ||
+Artificial Intelligence ||
+Machine Learning ||
+Digital Image Processing ||
+Computer Vision ||
 Neural Networks
 Contact Me
 You can reach out to me on LinkedIn to connect or discuss any projects you have in mind.

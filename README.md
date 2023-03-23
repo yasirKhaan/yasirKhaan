@@ -11,7 +11,7 @@ In addition, I have a strong background in Artificial Intelligence and Machine L
 I have extensive experience working with Microsoft Azure, including Azure Function Apps, Azure App Services, Azure Event Hub, Azure Active Directory, Azure Logic Apps, Azure Virtual Machines, and Azure Computer Vision. I am also proficient in microservices and serverless scripting.
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fmax_1200%2F06f21a161921919.63cd7887d0a70.gif&tbnid=fxK5tONPokeGrM&vet=12ahUKEwjHltyU9_L9AhX7pycCHQTuCz4QMygPegUIARC-Ag..i&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif%3Ftracking_source%3Dsearch_projects%257Canimated%2Bportrait&docid=ryslkesAXm4-1M&w=1000&h=756&q=coding%20animated%20gif&ved=2ahUKEwjHltyU9_L9AhX7pycCHQTuCz4QMygPegUIARC-Ag).gif">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 ## My Skills
 Python ||

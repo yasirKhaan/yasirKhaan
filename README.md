@@ -6,7 +6,7 @@
 <h2 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence.</h3>
 
 ## About Me
-I am a Python Developer with over 2.5 of experience in web and backend development, as well as digital image processing and computer vision. My expertise lies in using Python frameworks such as Django, Flask, Django Rest Framework, FastAPI, and Pyramid, as well as technologies such as MSSQL, NoSQL, and Git.
+I am a Python Developer with over **2.5 years of experience** in web and backend development, as well as digital image processing and computer vision. My expertise lies in using Python frameworks such as Django, Flask, Django Rest Framework, FastAPI, and Pyramid, as well as technologies such as MSSQL, NoSQL, and Git.
 
 In addition, I have a strong background in Artificial Intelligence and Machine Learning, with experience using TensorFlow, Sklearn, Pandas, and Numpy for building and optimizing ML models. I am also well-versed in digital image processing and computer vision, with expertise in OpenCV and Seaborn.
 

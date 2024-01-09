@@ -50,9 +50,6 @@ I'm always looking to connect with other professionals in my field. If you'd lik
 - 📫 How to reach me **yasirkhan.pydev@gmail.com**
 
 - ⚡ Fun fact **In my mind, I observe every normal thing and create logic behind its behaviour. (I know it sounds Strange 😃)**
-<img align="center" alt="coding" width="100%" height="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 

@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Yasir Khan</h1>
-<h2 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence.</h3>
+<h2 align="center">Data Engineer with expertise in Python Development</h3>
 
 ## About Me
 I am a Data Engineer and Backend Developer with over **more than 3 years of experience** in Data Engineering and backend development, specializing in creating complex ETL pipelines. My primary expertise lies in utilizing Python frameworks and solving Real World Problems.

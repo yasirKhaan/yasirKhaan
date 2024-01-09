@@ -6,65 +6,50 @@
 <h2 align="center">Python Developer with expertise in Backend Development and Artificial Intelligence.</h3>
 
 ## About Me
-I am a Python Developer with over **2.5 years of experience** in web and backend development, as well as digital image processing and computer vision. My expertise lies in using Python frameworks such as Django, Flask, Django Rest Framework, FastAPI, and Pyramid, as well as technologies such as MSSQL, NoSQL, and Git.
+I am a Data Engineer and Backend Developer with over **more than 3 years of experience** in Data Engineering and backend development, specializing in creating complex ETL pipelines. My primary expertise lies in utilizing Python frameworks and solving Real World Problems.
 
-In addition, I have a strong background in Artificial Intelligence and Machine Learning, with experience using TensorFlow, Sklearn, Pandas, and Numpy for building and optimizing ML models. I am also well-versed in digital image processing and computer vision, with expertise in OpenCV and Seaborn.
+I have a strong foundation in data engineering tools and technologies. Specifically, I am proficient in working with data pipelines and processing using tools like Apache Spark, Apache Airflow. Furthermore, I have hands-on experience with database management systems such as MSSQL, PostgreSQL, and MongoDB, ensuring efficient data storage and retrieval.
 
-I have extensive experience working with Microsoft Azure, including Azure Function Apps, Azure App Services, Azure Event Hub, Azure Active Directory, Azure Logic Apps, Azure Virtual Machines, and Azure Computer Vision. I am also proficient in microservices and serverless scripting.
+Regarding cloud services, I possess extensive experience working with Azure Data Factory, Azure Synapse Analytics, Azure Data Lake, Azure Function Apps, Azure App Services, Azure Active Directory, and Azure Logic Apps to build scalable and efficient data solutions. Additionally, I am well-versed in microservices architecture and proficient in implementing serverless scripting methodologies for streamlined data processing and analysis.
+
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 ## My Skills
 Python **||**
+Data Pipelines **||**
+REST APIs **||**
+Data Modeling **||**
+Data Orchestration **||**
+Microsoft Azure **||**
+Azure Data Factory **||**
+Azure Synapse Analytics **||**
+Azure Databricks **||**
+Azure Data Lake **||**
+Azure Function Apps **||**
+Azure App Services **||**
+Azure Logic Apps **||**
 Django **||**
-Flask **||**
-Django Rest Framework **||**
-FastAPI **||**
-Pyramid **||**
 MSSQL **||**
 NoSQL **||**
 Git **||**
-TensorFlow **||**
-OpenCV **||**
-Sklearn **||**
 Pandas **||**
 Numpy **||**
 Seaborn **||**
 Selenium **||**
-Unit Testing **||**
-Microsoft Azure **||**
-Cloud Computing **||**
-Azure Function Apps **||**
-Azure App Services **||**
-Azure Event Hub **||**
-Azure Active Directory **||**
-Azure Logic Apps **||**
-Azure Virtual Machines **||**
-Azure Computer Vision **||**
-Microservices **||**
-Backend **||**
-Web Development **||**
-Restful API Development **||**
-Serverless Scripting **||**
-Artificial Intelligence **||**
-Machine Learning **||**
-Digital Image Processing **||**
-Computer Vision **||**
-Neural Networks
-
 
 Let's Connect!
 I'm always looking to connect with other professionals in my field. If you'd like to connect, please don't hesitate to send me a message or connect with me on the email address and accounts I provided below.
 
 
-- 🔭 I’m currently working on **ArcGIS, Automation, ETL, Django, FastAPI, Data Science & Machine Learning**
+- 🔭 I’m currently working on **Data Factory, KPI Calculations, ArcGIS, Automation, ETL, Django, FastAPI, Data Science & Machine Learning**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 💬 Ask me about **Python, Data Science, Data Orchestration, ETL, Backend, Cloud, APIs, Machine Learning, Deep Learning & Computer Vision**
+- 💬 Ask me about **Python, Data Engineering, Data Orchestration, ETL, Data Modeling, Backend, Cloud, APIs, & KPI Calculation**
 
 - 📫 How to reach me **yasirkhan.pydev@gmail.com**
 
-- ⚡ Fun fact **In my mind, I observe every normal thing and create logic behind it with pseudo code of it. (I know it sounds Strange 😃)**
+- ⚡ Fun fact **In my mind, I observe every normal thing and create logic behind its behaviour. (I know it sounds Strange 😃)**
 <img align="center" alt="coding" width="100%" height="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 

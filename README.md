@@ -43,7 +43,7 @@ I'm always looking to connect with other professionals in my field. If you'd lik
 
 - 🔭 I’m currently working on **Data Factory, KPI Calculations, ArcGIS, Automation, ETL, Django, FastAPI, Data Science & Machine Learning**
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Data Architecture**
 
 - 💬 Ask me about **Python, Data Engineering, Data Orchestration, ETL, Data Modeling, Backend, Cloud, APIs, & KPI Calculation**
 
